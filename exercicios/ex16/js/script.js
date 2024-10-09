@@ -5,7 +5,7 @@ Tabuada de 5:
 5 x 1 = 5
 5 x 2 = 10
 ...
-5 x 10 = 50 
+50 = R$ 12,50
 */
 function gerarTabuada() {
     let numero = document.querySelector('#numero').value;
